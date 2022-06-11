@@ -1,0 +1,10 @@
+D:\Проекты\laba6\bin\Debug\laba6.exe.config
+D:\Проекты\laba6\bin\Debug\laba6.exe
+D:\Проекты\laba6\bin\Debug\laba6.pdb
+D:\Проекты\laba6\obj\Debug\laba6.csproj.AssemblyReference.cache
+D:\Проекты\laba6\obj\Debug\laba6.Form1.resources
+D:\Проекты\laba6\obj\Debug\laba6.Properties.Resources.resources
+D:\Проекты\laba6\obj\Debug\laba6.csproj.GenerateResource.cache
+D:\Проекты\laba6\obj\Debug\laba6.csproj.CoreCompileInputs.cache
+D:\Проекты\laba6\obj\Debug\laba6.exe
+D:\Проекты\laba6\obj\Debug\laba6.pdb
